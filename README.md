@@ -1,7 +1,7 @@
 # Jamulus4Linux
 This repository contains shell scripts for compilation of [Jamulus  Server and Client on Linux](https://github.com/jamulussoftware/jamulus) as an alternative to the [Ubuntu repository add and install(https://github.com/jamulussoftware/jamulus) process as mentioned by Jamulus Homepage. The [Jamulus Homepage](https://jamulus.io) does not contain binary packages, so that the provided script should help you getting Jamulus running on your Linux PC.
 
-The respository contains the following scripts:
+The respository contains the following scripts are available for you to update and adapt to current Linux versions:
 * `jamulus_install4debian.sh` download and install source code from [jamulussoftware](https://github.com/jamulussoftware/jamulus) on `Debian` 
 * `jamulus_install4fedora.sh` download and install source code from [jamulussoftware](https://github.com/jamulussoftware/jamulus) on `Fedora`
 * `jamulus_install4ubuntu.sh` download and install source code from [jamulussoftware](https://github.com/jamulussoftware/jamulus) on `Ubuntu`
